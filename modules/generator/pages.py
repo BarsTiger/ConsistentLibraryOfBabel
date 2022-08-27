@@ -1,5 +1,4 @@
 from modules.config import charset
-from ezzthread import threaded
 
 
 def encode(n):
