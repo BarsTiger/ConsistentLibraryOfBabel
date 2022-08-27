@@ -3,4 +3,4 @@
 /build/
 /tests/
 *.spec
-*/config.json
+config.json
